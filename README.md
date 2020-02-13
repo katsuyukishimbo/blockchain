@@ -10,6 +10,7 @@ $brew install loom
 $loom spin weave-blueprint
 $cd blueprint
 $make deps
+
 $make
 $cd build
 $loom init
